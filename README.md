@@ -1,0 +1,4 @@
+psync
+=====
+
+Concise asynchronous library.
